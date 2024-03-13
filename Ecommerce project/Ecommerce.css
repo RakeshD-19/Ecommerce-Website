@@ -1,0 +1,632 @@
+
+.top-header {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 8px 0px;
+    background-color: rgb(238, 101, 21);
+    font-size: large;
+    font-weight: 500;
+    font-size: 300%;
+    align-content: center;
+    text-align: center;
+    display:flex;
+    padding-left: 30%;
+    border-bottom: 2px solid rgb(228, 217, 226);
+    font-style:calc();
+
+
+}
+.logo {
+    font-size:20px;
+    border-radius: 50% ;
+    background-color: rgb(241, 200, 200);
+    width: 30px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 4px;
+    border-color: rgb(132, 15, 241);
+    border-color:transparent;
+    cursor: pointer;
+    
+    
+}
+.home {
+    font-style: normal;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 15%;
+    cursor: pointer;
+}
+.aboutus {
+    font-style: normal;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 2.5%;cursor: pointer;
+}
+.support {
+    font-style: normal;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 2.5%;
+    cursor: pointer;
+}
+.sign {
+    font-style: normal;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 3%;
+    cursor: pointer;
+}
+.search {
+    background-color:rgb(169, 28, 173);
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    border-bottom: 2px solid rgb(228, 217, 226);
+}
+.bar {
+    padding-left: 20px;
+    width: 200%;
+    height: 70%;
+   
+
+}
+.searchbar {
+    padding-left: 70px;
+    width: 200px;
+}
+.searchicon {
+    padding-left: 170px;
+    padding-top:8px;
+    cursor: pointer;
+    
+}
+.mic {
+    padding-left: -4px;
+    padding-top: .5%;
+    cursor: pointer;
+}
+.wish {
+    padding-left: 500px;
+    padding-top: 10px;
+    color: white;
+    cursor: pointer;
+
+}
+.order {
+    padding-left: 30px;
+    padding-top: 10px;
+    color: white;
+    cursor: pointer;
+
+}
+.carts {
+    padding-left: 35px;
+    padding-top: 10px;
+    
+
+}
+.three {
+    padding-left: 10px;
+    color: white;
+    padding-top: 6px;
+    cursor: pointer;
+}
+.options{
+    background-color: rgb(183, 183, 248);
+    padding-left: 10px;
+    padding-top: 10px;
+    display:flex;
+    justify-content:space-between;
+    padding-right: 10px;
+    padding-bottom:5px;
+    
+
+}
+.eleimg {
+    padding-left: 5px;
+    padding-top: 7px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+.ele1 {
+    font-size:10px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-weight: 800;
+    
+}
+.eleimg:hover{
+    background-color: blanchedalmond;
+    transition: 0.2s;
+}
+.eleimg:focus{
+    outline-color:blue;
+    outline-style: solid;
+}
+.fasimg {
+    padding-left: 10px;
+    padding-top: 7px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+.fas1 {
+    font-size:10px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-weight: 800;
+    
+}
+.fasimg:hover{
+    background-color: blanchedalmond;
+    transition: 0.2s;
+}
+.grocimg {
+    padding-left: 10px;
+    padding-top: 7px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+.groc1 {
+    font-size:10px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-weight: 800;
+    
+}
+.grocimg:hover{
+    background-color: blanchedalmond;
+    transition: 0.2s;
+}
+.offimg {
+    padding-left: 5px;
+    padding-top: 7px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+.off1 {
+    font-size:10px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-weight: 800;
+    
+}
+.offimg:hover{
+    background-color: blanchedalmond;
+    transition: 0.2s;
+}
+.appimg {
+    padding-left: 5px;
+    padding-top: 7px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+.app1 {
+    font-size:10px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-weight: 800;
+    
+}
+.appimg:hover{
+    background-color: blanchedalmond;
+    transition: 0.2s;
+}
+.accimg {
+    padding-left: 5px;
+    padding-top: 7px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+.acc1 {
+    font-size:10px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-weight: 800;
+    
+}
+.accimg:hover{
+    background-color: blanchedalmond;
+    transition: 0.2s;
+}
+.furimg {
+    padding-left: 5px;
+    padding-top: 7px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+.fur1 {
+    font-size:10px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-weight: 800;
+    
+}
+.furimg:hover{
+    background-color: blanchedalmond;
+    transition: 0.2s;
+}
+.sportimg {
+    padding-left: 5px;
+    padding-top: 7px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+.sport1 {
+    font-size:10px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-weight: 800;
+    
+}
+.sportimg:hover{
+    background-color: blanchedalmond;
+    transition: 0.2s;
+}
+.medimg {
+    padding-left: 5px;
+    padding-top: 7px;
+    background-color: transparent;
+    border-radius: 10%;
+}
+.med1 {
+    font-size:10px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-weight: 800;
+    
+}
+.medimg:hover{
+    background-color: blanchedalmond;
+    transition: 0.2s;
+}
+
+.products{
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    width: 900px;
+    transition: 0.5s;
+}
+svg{
+    width: 30px;
+}
+header{
+    display: flex;
+    justify-content:space-between;
+    padding: 20px 0px;
+    align-items: center;
+    
+}
+.cart-icon{
+    position: relative;
+}
+header .cart-icon span{
+    display: flex;
+    width: 16px;
+    height: 16px;
+    background-color: rgb(220, 233, 48);
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 10px;
+    position: absolute;
+    top: 54%;
+    right: -8px;
+
+}
+.ptitle{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.listproducts .item img{
+    width: 50%;
+   
+    
+}   
+.listproducts{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    gap: 20px;
+}    
+.item{
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   padding: 30px;
+   background-color:rgb(243, 211, 171);
+   border-radius: 20px;
+}
+.item h2{
+    font-weight: 800;
+    font-size: larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.price{
+    letter-spacing: 4px;
+    font-size:small;
+}
+.addcart{
+    background-color: rgb(233, 116, 95);
+    padding: 6px;
+    cursor: pointer;
+    border-radius: 20px;
+    color: aliceblue;
+    margin-top: 30px;
+   
+
+}
+.carttab{
+    width: 400px;
+    background-color: rgb(43, 42, 42);
+    color:thistle;
+    position: fixed;
+    inset: 0 -400px 0 auto;
+    display: grid;
+    grid-template-rows:  70px 1fr 70px;
+    transition: 0.5s;
+}
+body.showcart .carttab{
+    inset: 0 0 0 auto;
+}
+body.showcart .products{
+    transform: translateX(-220px);
+}
+.carttab h1{
+    padding:20px;    
+    font-weight: 350;
+    margin: 0;
+}
+.btn{
+    display: grid;
+}
+.btn button{
+    cursor: pointer;
+}
+.checkout:hover{
+    background-color: yellow;
+
+}
+.close:hover{
+    background-color: rgb(184, 167, 167);
+}
+.items img{
+    width: 60%;
+}
+.items{
+    display: grid;
+    grid-template-columns: 70px 150px 50px 1fr;
+    gap: 10px;
+    text-align: center;
+    align-items: center;
+    padding-left: 10px;
+}
+.quantity span{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer;
+}
+.quantity span:nth-child(2){
+    background-color: transparent;
+    color: white;
+}
+.listcart{
+    overflow: auto;
+}
+.menu{
+    width: 200px;
+    background-color: rgb(183, 183, 248);
+    height: 584px;
+    inset: 395px 1136px 0 auto;
+    text-align: center;
+    position:absolute;
+    display:block;
+    border-radius: 20px;
+    transition: 0.5s;
+    padding-top:0px;
+    margin-top: -25px;
+    justify-content: space-between;
+}
+body.showcart .menu{
+    transform: translateX(-240px);
+    
+}
+.prime{
+    padding: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(53, 51, 51);
+    
+}
+.faq{
+    padding: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(53, 51, 51);
+}
+.noti{
+    padding: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(53, 51, 51);
+}
+.term{
+    padding: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(53, 51, 51);
+}
+.address{
+    padding: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(53, 51, 51);
+}
+.review{
+    padding: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(53, 51, 51);
+}
+.wallet{
+    padding: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(53, 51, 51);
+}
+.creator{
+    padding: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(53, 51, 51);
+}
+.fun{
+    padding: 22px;
+    cursor: pointer;
+    
+}
+.lang{
+    padding: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(53, 51, 51);
+}
+.prime:hover{
+    font-size: 20px;
+    background-color: yellow;
+    transition: 0.3s;
+   
+    
+}
+.review:hover{
+    font-size: 20px;
+    background-color: yellow;
+    transition: 0.3s;
+    
+}
+
+.noti:hover{
+    font-size: 20px;
+    background-color: yellow;
+    transition: 0.3s;
+    
+}
+
+.faq:hover{
+    font-size: 20px;
+    background-color: yellow;
+    transition: 0.3s;
+    
+}
+.address:hover{
+    font-size: 20px;
+    background-color: yellow;
+    transition: 0.3s;
+   
+}
+
+
+.term:hover{
+    font-size: 20px;
+    background-color: yellow;
+    transition: 0.3s;
+    
+    
+}
+
+.wallet:hover{
+    font-size: 20px;
+    background-color: yellow;
+    
+    transition: 0.3s;
+}
+.lang:hover{
+    font-size: 20px;
+    background-color: yellow;
+    transition: 0.3s;
+   
+}
+.creator:hover{
+    font-size: large;
+    background-color: yellow;
+    transition: 0.3s;
+
+}
+.fun:hover{
+    font-size: 20px;
+    background-color: yellow;
+    transition: 0.3s;
+ 
+}
+.back{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.protitle{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.ptitle{
+    font-size: 50px;
+}
+.rohit{
+    height: 100%;
+    width: 23%;
+    -webkit-transform: scaleX(-1);
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  transform: scaleX(-1);
+   
+    
+   position:absolute;
+    left: 1110px;
+    bottom: -340px;
+    transition:s;
+   
+}
+body.showcart .rohit{
+
+  visibility: hidden;
+} 
+@media only screen and (max-width: 992px) {
+    .listproducts{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media only screen and (max-width: 768px) {
+    .listproducts{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
