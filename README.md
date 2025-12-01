@@ -16,3 +16,6 @@ Frontend: HTML, CSS, JavaScript.
 If you have any questions or suggestions regarding the project, feel free to contact us at rakeshpost86@gmail.com.
 
 Happy shopping!
+
+with regards
+Rakesh D
