@@ -17,5 +17,3 @@ If you have any questions or suggestions regarding the project, feel free to con
 
 Happy shopping!
 
-with regards
-Rakesh D
